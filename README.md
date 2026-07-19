@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="right">A Passionate Web Developer from India</h4>
+<h4 align="right">A Passionate Application Developer from India</h4>
 
 ###
 
@@ -18,7 +18,10 @@
 
 ###
 
-<p align="left">✨ Creating Web  on New Ideas<br><br>👯 I’m looking to collaborate on Hackathons and Creative Ideas<br><br>📚 I'm currently learning Frameworks Like Node.js, React.js & AI development ,OOP's ,DSA<br><br>📄 Know about my experiences:<br>Published and Represent My Own Research Paper in International Interdisciplinary Conference</p>
+<p align="left">✨ Creating Web  on New Ideas<br><br>👯 I’m looking to collaborate on Hackathons and Creative Ideas <br><br>📄 Know about my experiences:<br>Published and Represent My Own Research Paper in International Interdisciplinary Conference<br>
+4+ months of internship Experience in App Development<br>
+2+ months of internship Experience in Frontend Development 
+</p>
 
 ###
 
@@ -39,7 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoJVyB_fJ4NqFUoynCO5m_s6LwXpCr2BlkayD-I2YYw&s" height="40" alt="React -Native"/>
+  <image width="12" />
 </div>
 
 ###
@@ -52,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  
 </div>
 
 ###
