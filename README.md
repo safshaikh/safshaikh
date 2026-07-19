@@ -5,7 +5,8 @@
 <br clear="both">
 
 <div align="right">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1024/1*hZJV9DjRZW9DJ4XfRwQaIA.png"  />
+  <img height="300" src="https://i.pinimg.com/1200x/b2/c4/9f/b2c49f8d98aeae5d932976d48e5767bd.jpg"  />
+  
 </div>
 
 ###
@@ -18,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating Web  on New Ideas<br><br>👯 I’m looking to collaborate on Hackathons and Creative Ideas <br><br>📄 Know about my experiences:<br>Published and Represent My Own Research Paper in International Interdisciplinary Conference<br>
+<p align="left">✨ Creating Web/App  on New Ideas<br><br>👯 I’m looking to collaborate on Hackathons and Creative Ideas <br><br>📄 Know about my experiences:<br>Published and Represent My Own Research Paper in International Interdisciplinary Conference<br>
 4+ months of internship Experience in App Development<br>
 2+ months of internship Experience in Frontend Development 
 </p>
